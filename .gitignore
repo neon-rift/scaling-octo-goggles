@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# project specific
+build
+build-run.sh
